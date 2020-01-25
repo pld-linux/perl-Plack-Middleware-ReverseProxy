@@ -4,7 +4,6 @@
 
 %define		pdir	Plack
 %define		pnam	Middleware-ReverseProxy
-%include	/usr/lib/rpm/macros.perl
 Summary:	Plack::Middleware::ReverseProxy - Supports app to run as a reverse proxy backend
 Name:		perl-Plack-Middleware-ReverseProxy
 Version:	0.11
